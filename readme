@@ -2,3 +2,8 @@ virtual env used in this project : blog
 superuser: username : anish
 password: anish
 email : anish@anish.com
+
+extra users:
+username: badeanish
+email: mynameanish1@gmail.com
+password: mynameanish1
